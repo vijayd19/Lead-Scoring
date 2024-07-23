@@ -15,6 +15,6 @@ Moreover, the company also gets leads through past referrals. Once these leads a
 
 ## The repository contains the following files
 1. Jupyter notebook with the logistic regression model, the conversion predictions and evaluation metrics.
-2. Document with solutions to all the problems.
-3. Document highlighting overall approach of the analysis.
-4. A brief summary report explaining the assignment and the learnings gathered.
+2. Presentation file
+3. File with answers to the  questions provided.
+4. Summary report
